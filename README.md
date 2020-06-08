@@ -7,6 +7,35 @@ To ganger i året har vi prosjektkonserter. Av disse kan nevnes:Jimmy Hendrix, S
 
 Bandet har hatt diverse musikere som musikalsk leder opp gjennom årene og av disse kan nevnes Jens Wendelboe, Egil Hurum, Geir Gaarder, Nancy Sandvoll, Håkon Kvidal, Vegard Landaas og for tiden Bjørn Husom. Disse har hvert på sitt område tilført bandet inspirasjon og erfaring.
 
+# Bandet
+
+Røa har vanlig storbandbesetning bestående av 18 personer: musikalsk leder, 5 saksofoner, 4 tromboner, 4 trompeter og 4 i kompet (piano, gitar, bass og slagverk).
+
+Bandet
+
+## Nåværende medlemmer
+Bjørn Husom ★ Musikalsk leder  
+
+Bjørn Alfsen ★ Altsax  
+Trude Dons ★ Altsax  
+Bård Grønbech ★ Tenorsax  
+Terje Steensen ★ Tenorsax  
+Svein Thoresen ★ Baritonsax  
+
+Jan Dons ★ Trompet  
+Janne Karoliussen ★ Trompet  
+Marit Gustavsen ★ Trompet 
+
+Fritz Gut ★ Trombone  
+Trond Skjerven ★ Trombone  
+Helge Francke ★ Trombone  
+Rune Marthinussen ★ Basstrombone  
+
+Martin Miguel Busvold ★ Gitar  
+Ingeborg Hermansen ★ Piano  
+Frank Becker ★ Bass  
+Are Sorknes ★ Slagverk  
+
 # Booking
 Trenger du storband? Vi gjør både dansejobber, klubbjobber og konserter i Oslo-området.
 
