@@ -70,3 +70,11 @@ Her er et lite utdrag av sangene vi spiller til vanlig. Har du spesielle ønsker
 * You can leave your hat on
 * You make me feel so young
 * Wienervals
+
+# Media
+
+## Frank Sintra, 16. november 2013
+[![Frank Sintra, 16. november 2013](http://img.youtube.com/vi/7NDI4WjXqCg/0.jpg)](http://www.youtube.com/watch?v=7NDI4WjXqCg)
+
+## Mike Tomaro, 12. desmber 2012
+[![Mike Tomaro, 12. desmber 2012](http://img.youtube.com/vi/g89zkoQzuTg/0.jpg)](http://www.youtube.com/watch?v=g89zkoQzuTg)
