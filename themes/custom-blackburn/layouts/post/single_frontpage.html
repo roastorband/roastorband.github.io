@@ -1,0 +1,18 @@
+<div class="post-container">
+  <div class="header">
+    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    {{/*<h2>{{ .Description }}</h2>*/}}
+  </div>
+  <div class="content">
+    <hr>
+
+    {{ partial "post_meta.html" . }}
+
+    {{ .Content }}
+
+    {{ partial "google_map_embedded.html" . }}
+
+    {{ partial "facebook_post_like.html" . }}
+
+  </div>
+</div>

@@ -1,0 +1,151 @@
+h1, h2, h3, h4, h5 {
+  color: black;
+}
+
+.main-header h1 a {
+  color: white;
+}
+
+.main-header h1 a:visited {
+  color: white;
+}
+
+.header h1 {
+  margin-bottom: 0.3rem;
+}
+
+.header h2 {
+  color: grey;
+  margin-bottom: 0;
+}
+
+p, li {
+  color: black;
+}
+
+.fb-like-container {
+  height: 1rem;
+  position: relative;
+  padding: 0;
+  margin-bottom: 0.7rem;
+  margin-top: 0.7rem;
+}
+
+.post-container .fb-like-container {
+  margin-bottom: 3rem;
+}
+
+#menu {
+  font-size: 130%;
+  line-height: 80%;
+  background: black
+}
+
+#menu a {
+  color: #bbb;
+}
+
+img {
+  width: 100%;
+}
+
+.main-header {
+  height: 144px;
+  background-color: black;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.main-header h1 {
+  color: white;
+}
+
+.content h1 {
+  font-size: 250%;
+  line-height: 1;
+}
+
+.header {
+  border-bottom: none;
+}
+
+.post-container {
+  border: 2px black solid;
+  margin-bottom: 1rem;
+  box-shadow: 3px 3px 3px #888888;
+  background-color: white;
+}
+
+.post-container hr {
+  height: 2px;
+  color: black;
+  background-color: black;
+  border: none;
+  margin: 0 0 1rem 0;
+}
+
+.post-container .header {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+h1 a {
+  color: black;
+}
+
+h1 a:visited {
+  color: black;
+}
+
+.post-container .content {
+  margin-bottom: 2.5em;
+}
+
+.prev-next-post {
+  padding-bottom: 0;
+  border-top: 2px solid black;
+  border-bottom: none;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+p {
+  font-size: 110%;
+}
+
+/* Prevent horizontal scrolling on mobile */
+html, cbody {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+@media (max-width: 48em) {
+  .header {
+    padding-bottom: 4rem;
+  }
+
+  .post-container .header {
+    font-size: 75%;
+  }
+
+  .content {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}

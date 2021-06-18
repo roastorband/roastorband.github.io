@@ -1,0 +1,147 @@
+{
+  "date": "2016-03-26T15:32:33",
+  "draft": false,
+  "title": "Referanser"
+}
+
+- Jens Ulltveit Moes 70 årsdag
+  - Snarøya
+- Andre bursdagsfeiringer
+  - Norske Studenters Roklubb
+  - Tryvannstua
+  - Druidenes Hus
+  - Småflaskemuseet
+- Jusstudentenes Hoppeball + Premiereball Cabaret Intim (23 ganger)
+  - Oslo Militære Samfund
+  - Grand Hotel
+  - Hotel Continental
+  - Hotel Bristol
+  - Ingeniørenes Hus
+  - Ballroom
+  - Frognerseteren Restaurant
+- Medisinerball
+  - Hotel Bristol
+- Bryllup
+  - Grand Hotel
+  - Hotel Continental
+  - Oslo Militære Samfund
+  - Drensrud Gård
+  - Nordby Samlingshus
+- Juleball
+  - Hovseter Skole
+- Norsk Hydro Åpningsarrangement, Brageplattformen
+  - Grand Hotel
+- Oslo Skål Club
+  - Holmenkollen Park Hotel
+- Oslo Arkitektforening
+  - Den Gamle Logen
+- Ullevål Sykehus
+ - Det Norske Teater
+- Foreningen "Rundskue"
+  - Den Gamle Logen
+- Sykepleierhøgskolen
+ - Hotel Christiania
+- Ing. Bonde & Co
+  - Oslo Militære Samfund
+- Geelmuyden Kiese
+  - Granfos Næringspark
+- Finanshuset
+  - Grand Hotel
+- Siemens/Nixdorf
+  - SAS Hotellet
+- Oslo Arbeiderparti
+  - Folkets Hus
+- Oslo Høyre
+  - Frognerparken
+- Julebord, Legeforeningen
+  - Det Norske Medisinske Selskap
+- Norconsult
+  - Norconsult Sandvika
+- Nordisk Institutt UiO
+  - SV-kantinen, Blindern
+- DeNoFa - Lilleborg
+  - Hotel Continental
+- Bergen Bank
+  - Najaden
+- A/S Informatikk
+  - Najaden
+- Markedsøkonomisk Stud.samfund
+  - Restaurant Sporten
+- Farmasøytisk Stud.forening
+  - Oslo Militære Samfund
+- Norsk Lærerlag
+  - Aker Brygge
+- Saga Petroleum
+  - Najaden
+- Arkitekt F.S. Platou as
+  - Arkitektenes Hus
+- Esselte
+  - Inforama
+- Kongress for elektronmikroskopi
+  - Dronningen
+- American Express (reklameshow)
+  - Karl Johans gt. v/Bennet
+- Spilleoppdrag for Rebusløpet (Pinsehelgen), 7 ganger
+  - Stena Saga
+- Spilleoppdrag for Rebusløpet (Pinsehelgen), 2 ganger
+  - Color Festival
+- BI-ball
+  - Hotel Continental
+- BI-ansattes julebord
+  - Kantine BI
+- BI-dagene
+  - BI kjelleren
+- Andenæsgruppen
+  - M/S Pipervigen
+- Fest for Bygdøybeboere
+  - Norske Studenters Roklubb
+- Vennefest
+  - Norske Studenters Roklubb
+- DnC Fondsavd.
+  - Hotel Continental
+- Alitalia
+  - Oslo Militære Samfund
+- Forenede Annonsører
+  - Ingierstrand Bad Restaurant
+- Th. Gregersen AS
+  - Grand Hotel
+- Citybank
+  - Øvrevoll Galoppbane
+- Voksenopplæringsforbundet
+  - Musikkpaviljongen Stud.lunden
+- Kongsberg Næringspark (Gamle Våpenfabrikk) 10 år
+  - Bolkesjø
+- Orkla Finans
+  - Skøyen Hovedgård
+- Informasjonsforeningen
+  - RICA Sjølyst
+- GE Aero Energy Products Norway AS (3 ganger)
+  - Kjeholmen
+- Ball arrangert for I. L. Høst (7 ganger)
+  - Den Gamle Logen
+- Julebord
+  - Norges Vassdrags- og Energidirektorat
+
+### Andre konserter og steder
+- Storbandfestivalen i Sandvika (8 ganger)
+- Lilleakerdagen (7 ganger)
+- Røadagene
+- John Dee
+- Musikkflekken
+- Oslo Jazzhus
+- Kulturslottet Soria Moria
+- Cosmopolite
+- Rebekka West
+- Aker Brygge Lille Scene
+- Aker Brygge diverse friluftskonserter
+- Jeppekjelleren
+- Musikkpaviljongen
+- Club 7
+- Belleville
+- Cafe Frølich
+- Vertshuset Josefine
+- Union Scene
+- Nordstrand Kirke
+- Mortensrud Kirke
+- Røa Kirke
+- Soria Moria
