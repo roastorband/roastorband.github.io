@@ -41,9 +41,7 @@ Trenger du storband? Vi gjør både dansejobber, klubbjobber og konserter i Oslo
 
 Ta kontakt med Helge Francke
 
-* Tlf. privat: 22 50 04 83
-* Tlf. jobb: 22 67 16 90
-* Mobil tlf: 91 56 04 45
+* Tlf: 91 56 04 45
 * Epost: helge.francke@svbolkesjo.no
 
 # Repertoar
